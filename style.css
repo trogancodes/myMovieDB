@@ -24,6 +24,14 @@ header{
     background-color: #031a10;
     background-image: linear-gradient(160deg, #031a10 0%, #3acdba 50%, #ffffff 100%);    
 }
+#colorChangeButton {
+    background-color: lightblue;
+    padding: 10px 20px;
+    border: none;
+    cursor: pointer;
+    border-radius: 20px;
+    margin-left: 2rem;
+}
 
 .search{
     background-color: transparent;
@@ -33,6 +41,7 @@ header{
     font-size: 1rem;
     color:#fff;
     font-family: inherit;
+    margin-right: 350px;
 }
 
 .search:focus{
