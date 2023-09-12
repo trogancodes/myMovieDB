@@ -399,4 +399,5 @@ function pageCall(page){
   
 
   this.style.backgroundColor = randomColor;
+  alert('this button is non functional no stress this developer')
 });
